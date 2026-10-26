@@ -1,0 +1,1 @@
+export default function BrandMark(){return <svg className="brand-symbol" viewBox="0 0 40 40" fill="none" aria-hidden="true"><path d="M20 3 35 12 29 28 20 37 11 28 5 12 20 3Z" stroke="currentColor" strokeWidth="1.2"/><path d="m8 13 9 7-3-10 6 5 6-5-3 10 9-7-5 13-7 6-7-6-5-13Z" stroke="currentColor" strokeWidth="1.4"/><path d="m16 23 4-5 4 5-4 7-4-7Z" fill="currentColor"/></svg>;}

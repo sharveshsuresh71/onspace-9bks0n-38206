@@ -1,0 +1,2 @@
+import type { Config } from 'tailwindcss';
+export default { content: ['./index.html', './src/**/*.{ts,tsx}'], theme: { extend: { colors: { background: 'hsl(var(--background))', foreground: 'hsl(var(--foreground))', primary: 'hsl(var(--primary))', muted: 'hsl(var(--muted))', panel: 'hsl(var(--panel))', border: 'hsl(var(--border))' }, fontFamily: { sans: ['Manrope', 'sans-serif'], display: ['Cinzel', 'serif'] } } }, plugins: [] } satisfies Config;
